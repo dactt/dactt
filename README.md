@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [**aimenext**](https://www.aimenext.com/)
 
-- 📝 I regularly write articles on [myblog.com](myblog.com)
+- 📝 I regularly write articles on [myblog](myblog.com)
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
@@ -29,7 +29,6 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
 <br />
 
 #
